@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-npm install
+npm install，刚导入要安装node_modules
 ```
 
 ### Compiles and hot-reloads for development
